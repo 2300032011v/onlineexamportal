@@ -2,7 +2,7 @@
   "name": "online-quiz-platform",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://2300032011v.github.io/onlineexamportal.git",
+  "homepage": "https://2300032011v.github.io/onlineexamportal",
   "type": "module",
   "scripts": {
     "dev": "vite",
